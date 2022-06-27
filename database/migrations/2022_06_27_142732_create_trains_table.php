@@ -24,7 +24,7 @@ class CreateTrainsTable extends Migration
             $table->tinyInteger('carriages_num') ;
             $table->boolean('in_time');
             $table->boolean('deleted') ;
-
+            $table->timestamps();
 
     // Ogni treno dovrà avere:
     // Azienda

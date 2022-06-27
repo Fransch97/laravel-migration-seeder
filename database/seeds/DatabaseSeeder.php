@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Database\Seeder;
-
+use App\Train;
+use Faker\Generator as Faker;
 class DatabaseSeeder extends Seeder
 {
     /**
@@ -14,3 +15,66 @@ class DatabaseSeeder extends Seeder
         // $this->call(UsersTableSeeder::class);
     }
 }
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
+// 8===D      8===D      8===D    8===D      8===D     8===D     8===D      8===D
+
+
+
